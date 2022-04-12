@@ -1,0 +1,6 @@
+.git
+*.pyc
+.vscode
+.idea
+.DS_store
+
